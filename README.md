@@ -1,2 +1,4 @@
-# Purple_studio-
-Purple studio is a smallish yet powerful drawing and photo editing software built with javascript 
+# Charren 
+
+Charren is a web component that provides a numerous games
+and accessibilities to ease users web experience 
